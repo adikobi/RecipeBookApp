@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "455704276627",
+    "firebase_url": "https://recipe-book-83c89.firebaseio.com",
+    "project_id": "recipe-book-83c89",
+    "storage_bucket": "recipe-book-83c89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455704276627:android:44c97efce1551def11e766",
+        "android_client_info": {
+          "package_name": "com.adi.recipebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455704276627-jqqgpu3gfc9qoil09d9ndg5tarbamn3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adi.recipebook",
+            "certificate_hash": "307c778ef95b803d814b2805dc8ce23d90d901eb"
+          }
+        },
+        {
+          "client_id": "455704276627-pd3p95ikoprmbn872tr6484pnb2kad1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_eFMxHhHsylh4ihix91KwtL885BwVzJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455704276627-pd3p95ikoprmbn872tr6484pnb2kad1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
